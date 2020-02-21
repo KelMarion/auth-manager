@@ -1,0 +1,19 @@
+{
+  "name": "@medpoint/auth",
+  "version": "0.1.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelMarion/auth-manager.git"
+  },
+  "author": "kelmarion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KelMarion/auth-manager/issues"
+  },
+  "homepage": "https://github.com/KelMarion/auth-manager#readme"
+}
